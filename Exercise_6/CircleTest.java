@@ -1,5 +1,3 @@
-package com.metanit.Exercise_6;
-
 
 import java.util.Scanner;
 
