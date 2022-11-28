@@ -1,4 +1,4 @@
-package com.metanit.Exercise_5;
+
 
 public class Dog {
     String name;
