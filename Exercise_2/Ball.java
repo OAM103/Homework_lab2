@@ -1,4 +1,3 @@
-package com.metanit.Exercise_2;
 
 public class Ball {
     double x = 0.0;
