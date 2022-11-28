@@ -1,4 +1,4 @@
-package com.metanit.Exercise_3;
+
 
 public class Circle extends Point{
     private double r;
