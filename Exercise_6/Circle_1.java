@@ -1,5 +1,3 @@
-package com.metanit.Exercise_6;
-
 
 public class Circle_1 {
     private double x;
