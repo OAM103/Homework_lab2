@@ -1,5 +1,3 @@
-package com.metanit.Exercise_7;
-
 
 public class Bookshelf extends Book{
 
