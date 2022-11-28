@@ -1,4 +1,4 @@
-package com.metanit.Exercise_7;
+
 
 public class Book {
     String name;
