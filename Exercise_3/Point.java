@@ -1,4 +1,4 @@
-package com.metanit.Exercise_3;
+
 
 public class Point {
     private double x;
