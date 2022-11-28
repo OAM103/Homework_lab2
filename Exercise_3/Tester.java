@@ -1,7 +1,5 @@
 
 
-import com.metanit.Exercise_7.Bookshelf;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
