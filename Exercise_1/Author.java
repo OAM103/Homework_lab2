@@ -1,4 +1,3 @@
-package com.metanit.Exercise_1;
 
 public class Author {
     String name;
