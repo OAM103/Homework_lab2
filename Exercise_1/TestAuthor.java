@@ -1,4 +1,3 @@
-package com.metanit.Exercise_1;
 
 import java.lang.*;
 
